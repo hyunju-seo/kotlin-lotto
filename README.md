@@ -1,1 +1,4 @@
-# kotlin-lotto
+- [kotlin-lotto](./src/main/kotlin/lotto)
+  - 로또를 구매하고 당첨 결과를 확인할 수 있는 프로그램
+- [문자열 덧셈 계산기](./src/main/kotlin/stringcalculator)
+  - 문자열에서 숫자를 추출하여 합산하는 프로그램
